@@ -1,1 +1,1 @@
-### my configuration file。
+### my configuration file.
